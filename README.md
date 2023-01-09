@@ -1,4 +1,4 @@
-# SharePointOnline
+# About
 This repository has tools for SharePoint Online.
 
 # Assumptions
